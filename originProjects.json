@@ -1,0 +1,3854 @@
+{
+  "BSC": [
+    {
+      "poolId": 20250813,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "status": "live",
+      "name": "ddev",
+      "nameKey": "SugarKingdomPrivateSaleTest",
+      "chainId": 56,
+      "distribution": "airdrop",
+      "avatar": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
+      "subName": "$CANDY",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.11,
+      "launchTime": 1647352800000,
+      "vesting": "6% at TGE, 4 months cliff, then 12% per month.",
+      "claimRatio": 0.55,
+      "description": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
+      "about": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
+      "idoType": "Private Sale",
+      "chainName": "BSC",
+      "startTime": "2PM 03/15/2022 UTC",
+      "endTime": "8PM 03/15/2022 UTC",
+      "idoTokenSymbol": "CANDY",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "iBSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "1",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/sugarkingdom-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.sugarkingdom.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/SugarKingdomNFT"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/+X3rSQ4M1yYVkNTYx"
+        }
+      ],
+      "bannerImages": [
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_1.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_2.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_3.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_4.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_5.png"
+      ],
+      "progress": {
+        "currentStep": 2,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": false
+          },
+          {
+            "name": "Claiming",
+            "completed": false
+          },
+          {
+            "name": "Ended",
+            "completed": false
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 0,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "status": "closed",
+      "name": "Sugar Kingdom",
+      "nameKey": "SugarKingdomPrivateSale",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
+      "subName": "$CANDY",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.11,
+      "launchTime": 1647352800000,
+      "vesting": "6% at TGE, 4 months cliff, then 12% per month.",
+      "claimRatio": 0.55,
+      "description": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
+      "about": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
+      "idoType": "Private Sale",
+      "chainName": "BSC",
+      "startTime": "2PM 03/15/2022 UTC",
+      "endTime": "8PM 03/15/2022 UTC",
+      "idoTokenSymbol": "CANDY",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "101",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/sugarkingdom-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.sugarkingdom.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/SugarKingdomNFT"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/+X3rSQ4M1yYVkNTYx"
+        }
+      ],
+      "bannerImages": [
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_1.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_2.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_3.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_4.png",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugar_5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 103,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "Crypto Pirates IDO ",
+      "status": "closed",
+      "nameKey": "CryptoPiratesIDO",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1517065534675820545/R7aPbDb__400x400.jpg",
+      "subName": "$PST",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.013,
+      "launchTime": 1667829600000,
+      "vesting": "40% TGE, linear for 6 months",
+      "claimRatio": 0.0325,
+      "description": "Crypto Pirates is an idle Play 2 Earn title with NFT integration about reckless pirates exploring the infinite reaches of space.",
+      "about": "Players are invited to navigate their solar-sailed ships through a huge mysterious world full of adventures and discoveries to glory and riches.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "2PM 11/07/2022 UTC",
+      "endTime": "8PM 11/07/2022 UTC",
+      "idoTokenSymbol": "PST",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "102",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/cryptopirates-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://crypto-pirates.app/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/_Crypto_Pirates"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/cryptopiratesapp"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/cryptopirates/1.png",
+        "https://www.trustfi.org/launchpad/cryptopirates/2.png",
+        "https://www.trustfi.org/launchpad/cryptopirates/3.png",
+        "https://www.trustfi.org/launchpad/cryptopirates/4.png",
+        "https://www.trustfi.org/launchpad/cryptopirates/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 140,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "Bitago IDO",
+      "status": "closed",
+      "nameKey": "bitago",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/bitago-avatar.jpg",
+      "subName": "$XBIT",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.1,
+      "launchTime": 1700577000000,
+      "vesting": "20% TGE, then 16% monthly",
+      "claimRatio": 0.5,
+      "description": "Bitago stands as a blockchain-based crypto cashback protocol that rewards customers with cryptocurrencies for their purchases. This innovative project is meticulously designed to address the inherent limitations of conventional cashback programs, which often exhibit restricted redemption options and operational complexity.",
+      "about": "Bitago empowers users to earn $XBIT effortlessly as they eat, travel, or shop, anytime and anywhere. Enjoy the latest deals, access in-store coupons, and explore exclusive Cash Back offers within the ecosystem worldwide. Bitago's overarching goal is to address the most significant challenge in the blockchain arena: making Web3 accessible to a broader audience and fostering mass crypto adoption among those who may not initially consider purchasing or investing directly. Simultaneously, Bitago aims to aid merchants in expanding their businesses, thereby playing a pivotal role in rapidly boosting the global economy transforming the shopping experience from Web2 to Web3.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "2:30PM 11/21/2023 UTC",
+      "endTime": "8:30PM 11/21/2023 UTC",
+      "idoTokenSymbol": "XBIT",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "ARB",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1653532864309239810/ZjT_zBAS_400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "103",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/bitago-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://bitago.app/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/bitagoxbit"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/bitago"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/bitago/1.png",
+        "https://www.trustfi.org/launchpad/bitago/2.png",
+        "https://www.trustfi.org/launchpad/bitago/3.png",
+        "https://www.trustfi.org/launchpad/bitago/4.png",
+        "https://www.trustfi.org/launchpad/bitago/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 131,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "Friend3 Seed",
+      "status": "closed",
+      "nameKey": "friend3",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/friend3-avatar.png",
+      "subName": "$F3",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.0065,
+      "launchTime": 1699437600000,
+      "vesting": "5% TGE, then 12 months monthly",
+      "claimRatio": 0.13,
+      "description": "Friend3 is a leading social dApp where anyone can make friends and profit in the Web3 world. Friend3 is revolutionizing the social monetization landscape by offering customizable pay-per-group communities and introducing a decentralized donation mechanism, enabling automated passive income. This boosts direct financial incentives for content creators, completing the creator economy‘s ecological loop.",
+      "about": "Friend3 is the #1 trending Social dApp on BNB Chain. The Friend3 beta app has 45k users and 200k transactions within just seven weeks and is the first dApp to offer customizable pricing curves in social protocols with a unique mechanism to empower the creator economy.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "10AM 11/08/2023 UTC",
+      "endTime": "8PM 11/08/2023 UTC",
+      "idoTokenSymbol": "F3",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "104",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/friend3-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://friend3.group/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/Friend3AI"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/friend3group"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/friend3/1.png",
+        "https://www.trustfi.org/launchpad/friend3/2.png",
+        "https://www.trustfi.org/launchpad/friend3/3.png",
+        "https://www.trustfi.org/launchpad/friend3/4.png",
+        "https://www.trustfi.org/launchpad/friend3/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 107,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "TARS Protocol Seed",
+      "nameKey": "tarsseed",
+      "status": "closed",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1628412349643366400/bXL5nf01_400x400.jpg",
+      "subName": "$TARS",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.028,
+      "launchTime": 1681912800000,
+      "vesting": "5% TGE, quarterly for 18 months",
+      "claimRatio": 0.56,
+      "description": "TARS serves as the BaaS infrastructure enabling organizations and individuals to easily conduct business and manage finance on Web3.",
+      "about": "TARS Protocol is an AI-driven, scalable Web3 modular infrastructure platform designed to empower projects with cutting-edge artificial intelligence solutions and one-stop BaaS (Blockchain-as-a-Service). By providing tailor-made AI services for Web3 startups, DAOs, and innovators, TARS Protocol enables seamless integration of AI technologies into businesses, driving growth and fostering development in the rapidly growing Web3 ecosystem.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "2PM 04/19/2023 UTC",
+      "endTime": "8PM 04/19/2023 UTC",
+      "idoTokenSymbol": "TARS",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "105",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/tars-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://tars.pro/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/tarsprotocol"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/tarsprotocol"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/tarsseed/1.png",
+        "https://www.trustfi.org/launchpad/tarsseed/2.png",
+        "https://www.trustfi.org/launchpad/tarsseed/3.png",
+        "https://www.trustfi.org/launchpad/tarsseed/4.png",
+        "https://www.trustfi.org/launchpad/tarsseed/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 151,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "Galaxy Games FCFS",
+      "nameKey": "galaxygamesfcfs",
+      "chainId": 56,
+      "status": "closed",
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1744346958498537472/0JeMK7GA_400x400.jpg",
+      "subName": "$GAGA",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.01,
+      "launchTime": 1708689600000,
+      "vesting": "10% TGE, 3 months cliff, rest vested for 14 months",
+      "claimRatio": 0.1,
+      "description": "Galaxy Games is a video game development studio that aims to create new experiences to connect Web2 and Web3 players from all around the world through an interconnected and rewarding gaming ecosystem",
+      "about": "GAGA's first title, Haunted Space, was developed in 4 years and will be released on Playstaton, Xbox, Steam in Q1 2024",
+      "idoType": "FCFS | Private",
+      "chainName": "BSC",
+      "startTime": "12PM 02/23/2024 UTC",
+      "endTime": "8PM 02/23/2024 UTC",
+      "idoTokenSymbol": "GAGA",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "106",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/galaxygame-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.hauntedspace.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/HauntedSpace_"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/hauntedspace"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/galaxygames/1.png",
+        "https://www.trustfi.org/launchpad/galaxygames/2.png",
+        "https://www.trustfi.org/launchpad/galaxygames/3.png",
+        "https://www.trustfi.org/launchpad/galaxygames/4.png",
+        "https://www.trustfi.org/launchpad/galaxygames/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 127,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "AiMalls IDO",
+      "status": "closed",
+      "nameKey": "aimalls",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1645998308589174784/J3eC1Spr_400x400.jpg",
+      "subName": "$AIT",
+      "claimStarts": 0,
+      "idoTokenPrice": 10,
+      "launchTime": 1698242400000,
+      "vesting": "10% TGE and 10% weekly for 9 weeks",
+      "claimRatio": 100,
+      "description": "Aimalls is a revolutionary global marketplace, powered by state-of-the-art Artificial Intelligence and underpinned by its utility token AIT. AiMalls transcends traditional shopping experiences, unifying sellers and buyers in a seamless digital platform where efficiency and customer satisfaction reign supreme. Our vision is to break down barriers between e-commerce and consumers, providing both Web3 and Web2 users with a versatile shopping platform they've always desired.",
+      "about": "AiMalls intertwines a myriad of advanced features, such as AI-driven product recommendations, enhanced search functionality, user-friendly interface, and secure transaction methods. We aim to create a cohesive ecosystem where users can explore, interact, and complete transactions effortlessly, all within the same platform. With a focus on constant innovation and customer satisfaction, AiMalls seeks to redefine e-commerce and set a new benchmark in the industry.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "2PM 10/25/2023 UTC",
+      "endTime": "8PM 10/25/2023 UTC",
+      "idoTokenSymbol": "AIT",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "107",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/aimalls-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://aimalls.app/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/ai_malls"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/+FkMAw3ZXCZI1NWZl"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/aimalls/1.png",
+        "https://www.trustfi.org/launchpad/aimalls/2.png",
+        "https://www.trustfi.org/launchpad/aimalls/3.png",
+        "https://www.trustfi.org/launchpad/aimalls/4.png",
+        "https://www.trustfi.org/launchpad/aimalls/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 32,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "status": "closed",
+      "name": "MetaFighter FPS",
+      "nameKey": "MetaFighterFPS",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1466901002938990598/TXirEzAw_400x400.jpg",
+      "subName": "$MF",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.011,
+      "launchTime": 1649599200000,
+      "vesting": "7.5% seven days after TGE, 45 days cliff, then monthly distribution.",
+      "claimRatio": 6.81,
+      "description": "MetaFighter is a skill-based Play-to-Earn fighting game that captures the essence of arcade fighting classics like Street Fighter, Virtua Fighter and Soul Calibur, with an in-game economy that rewards players for their fighting ability.",
+      "about": "Players can purchase, lend or rent fighters, the skins they adorn, and the superpowers they use to overcome their opponents. It has a vibrant NFT marketplace and lets players stake $MF tokens to gain an edge on their opponents.",
+      "idoType": "Flash Sale",
+      "chainName": "BSC",
+      "startTime": "2PM 04/10/2022 UTC",
+      "endTime": "8PM 04/10/2022 UTC",
+      "idoTokenSymbol": "MF",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "108",
+      "badge": "Private Sale",
+      "cover": "https://www.trustfi.org/launchpad/covers/metafighter-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.metafighter.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/MetaFighter_NFT"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/metafighter_news"
+        }
+      ],
+      "bannerImages": [
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/METAFIGHTER/METAFIGHTER1.jpg",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/METAFIGHTER/METAFIGHTER2.jpg",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/METAFIGHTER/METAFIGHTER3.jpg",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/METAFIGHTER/METAFIGHTER4.jpg",
+        "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/METAFIGHTER/METAFIGHTER5.jpg"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 78,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "status": "closed",
+      "name": "Sportzchain Network IDO",
+      "nameKey": "SPNIDO",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1496439369405587461/snTPuP3Y_400x400.jpg",
+      "subName": "$SPN",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.0024,
+      "launchTime": 1661608800000,
+      "vesting": "25% unlocked at TGE, 3 months linear vesting",
+      "claimRatio": 0.0096,
+      "description": "Sportzchain is the world’s first Engage 2 Earn platform where sports fans not just engage for entertainment but will have economic benefits through their participation on the platform.",
+      "about": "Sportzchain has vision to become the leader in engage to earn market and revolutionize the fan engagement industry.",
+      "idoType": "IDO",
+      "chainName": "MATIC",
+      "startTime": "2PM 08/27/2022 UTC",
+      "endTime": "8PM 08/27/2022 UTC",
+      "idoTokenSymbol": "SPN",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "MATIC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/matic.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "109",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/sportzchain-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://sportzchain.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/SPORTZCHAIN"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/SportzchainCommunity"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/spn/1.png",
+        "https://www.trustfi.org/launchpad/spn/2.png",
+        "https://www.trustfi.org/launchpad/spn/3.png",
+        "https://www.trustfi.org/launchpad/spn/4.png",
+        "https://www.trustfi.org/launchpad/spn/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 87,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "status": "closed",
+      "name": "Chirpley IDO",
+      "nameKey": "ChirpleyIDO",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1470757445416935432/yT5tfvSb_400x400.jpg",
+      "subName": "$CHRP",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.021,
+      "launchTime": 1662300000000,
+      "vesting": "15% at TGE, then linear release over 6 months",
+      "claimRatio": 0.14,
+      "description": "Chirpley is the world’s first automated, peer-to-peer influencer marketplace. It’s a radically decentralized eco-system that matches Nano and Micro-influencers with brands, and automates influencer marketing campaigns in a matter of minutes. Chirpley’s Web 3.0 interface enables end-to-end automated influencing campaigns through artificial intelligence, machine learning, and blockchain technology",
+      "about": "Chirpley provides optimized tools and platform for micro-influencers, who create the large majority of social engagement. With Chirpley, marketers are given the opportunity to set up a campaign with thousands of small influencers, at the same time, in a matter of minutes. And it’s not just easy, it’s surprisingly affordable.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "2PM 09/04/2022 UTC",
+      "endTime": "8PM 09/04/2022 UTC",
+      "idoTokenSymbol": "CHRP",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0xdBbB415782f144eFb07562498A99b760b54f3DE6",
+      "id": "110",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/chirpley-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "http://www.chirpley.ai/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/chirpley?lang=en"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/chirpleyANN"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/chirpley/1.png",
+        "https://www.trustfi.org/launchpad/chirpley/2.png",
+        "https://www.trustfi.org/launchpad/chirpley/3.png",
+        "https://www.trustfi.org/launchpad/chirpley/4.png",
+        "https://www.trustfi.org/launchpad/chirpley/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 143,
+      "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
+      "name": "GPTPlus IDO",
+      "nameKey": "gptplus",
+      "status": "closed",
+      "chainId": 56,
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1722189229034471424/NDfnN1L3_400x400.jpg",
+      "subName": "$GPTPLUS",
+      "claimStarts": 0,
+      "idoTokenPrice": 0.0015,
+      "launchTime": 1702123200000,
+      "vesting": "100% TGE",
+      "claimRatio": 0.0015,
+      "description": "GPT Plus, the definitive destination for state-of-the-art AI tools. Dive into a world where innovation meets convenience, streamlining your tasks and enhancing productivity. Experience the future of technology, all curated and centralized for your ease.",
+      "about": "Embark on a transformative journey, turning visionary ideas into intelligent, blockchain-backed solutions.",
+      "idoType": "IDO | TIS",
+      "chainName": "BSC",
+      "startTime": "12PM 12/09/2023 UTC",
+      "endTime": "8PM 12/09/2023 UTC",
+      "idoTokenSymbol": "GPTPLUS",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://pbs.twimg.com/profile_images/1565354861616832513/ovh5FyDN_400x400.png",
+      "distributedName": "ETH",
+      "distributedLogo": "https://pbs.twimg.com/profile_images/1627642622645878784/TP1GH9TM_400x400.jpg",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x38b436a7c59a1a9ffdcc1372fdd0f767fdf6fa45",
+      "id": "111",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/gptplus-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://gpt-plus.io/en/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/GPTPlusAI"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/GPTPlusNews"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/gptplus/1.png",
+        "https://www.trustfi.org/launchpad/gptplus/2.png",
+        "https://www.trustfi.org/launchpad/gptplus/3.png",
+        "https://www.trustfi.org/launchpad/gptplus/4.png",
+        "https://www.trustfi.org/launchpad/gptplus/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3001,
+      "name": "Copycat",
+      "nameKey": "Copycat",
+      "status": "closed",
+      "distribution": "Airdrop",
+      "avatar": "https://pbs.twimg.com/profile_images/1413138175589945350/ZoZ7YS-y_400x400.jpg",
+      "subName": "$eCAT",
+      "idoTokenPrice": 0.8,
+      "vesting": "100% at TGE",
+      "description": "Copycat DEX is an on-chain derivatives protocol developed by the Copycat Finance team, offering multi-chain decentralized perpetual contract services for derivatives.",
+      "about": "Copycat DEX is an on-chain derivatives protocol developed by the Copycat Finance team, offering multi-chain decentralized perpetual contract services for derivatives. Utilizing the advantages of decentralized networks (Layer 2), Copycat Dex is based on the innovative \"Point-to-Pool\" \"PvP-AMM\" protocol, aiming to save time costs and significantly reduce transaction costs (as low as 0.03% transaction fees) by optimizing the trading process. Its goal is to break industry barriers and provide a user experience closer to that of centralized exchanges (CEX), creating a convenient, efficient, and secure trading environment with user experience as the top priority.Copycat DEX is committed to providing unprecedented trading efficiency and security through innovative technology, bringing a new trading experience to users. By combining efficient trading mechanisms, optimized security measures, and a diverse range of financial products, Copycat DEX has become a leader in the cryptocurrency trading market.",
+      "idoType": "Public Sale",
+      "telegram": "",
+      "chainName": "BSC",
+      "startTime": "11AM 04/17/2024 UTC",
+      "endTime": "11AM 04/19/2024 UTC",
+      "idoTokenSymbol": "$eCAT",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x1d0cD21720a2805488953317Fb6Ca8aE7f48Fd64",
+      "id": "112",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/copycat-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.copycatdex.io/home"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/CopycatFinance"
+        }
+      ],
+      "bannerImages": [
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmUSY5cjmjhVRbdC7XXeKehnAJTcXWxVJTmJyPUwP812Ub",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmQQ9vsxYycxMyPYwJXD5aysTQT1nxB63HahspJFej6XjM",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmY6BuDwcmxWfaSgxpoiGhFv96edGd7ydFRYzhMNCCFhZA",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmdyL825eMm4WM9hwYVikpNQ6Hk3Yb7TCeaMA51xSHYMeg",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmShjAZMC9njYdGE5EG6ToGbiEdcNAbr3Tvm3ob64ihf4Q"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3002,
+      "name": "QuBy AI",
+      "nameKey": "qubyai",
+      "status": "closed",
+      "distribution": "Airdrop",
+      "avatar": "https://i.ibb.co/Nnf64S6/Colour-Hill-Logo-1.png",
+      "subName": "QYAI",
+      "idoTokenPrice": 3.5e-8,
+      "vesting": "100% at TGE",
+      "description": "AI Online is an immersive online game that combines artificial intelligence, blockchain (QUBYCHAIN) technology, and strategic gameplay in the exciting realm of Web 3.0.",
+      "about": "AI Online is an immersive online game that combines artificial intelligence, blockchain (QUBYCHAIN) technology, and strategic gameplay in the exciting realm of Web 3.0.",
+      "idoType": "Public Sale",
+      "chainName": "BSC",
+      "startTime": "11AM 04/24/2024 UTC",
+      "endTime": "11AM 04/26/2024 UTC",
+      "idoTokenSymbol": "QYAI",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Solana",
+      "distributedLogo": "https://i.postimg.cc/kgwxdrQG/removal-ai-603feda1-a9db-4c83-80ea-07f1bd63ff8a-cryptocurrency-solana-logo-graphics-13460284-1-pre.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x5252528047d8503DCc4084B06d2Ded78F1721396",
+      "id": "113",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/qubyai-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://qubyai.org/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/QuByAigames"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/QubyAi"
+        }
+      ],
+      "bannerImages": [
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmTBLv2E2z3ywPDE7Nt4ZBtq1bNfeutkrCoMmurn9pWyWN",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmSPQtFb7qn7d518Hb9ghXBCD2RpemaqdTAM1MYasbQzio",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/Qmc3DP1oQXhiqRWkSFeHAuag1P5HWtZpwtiVWmMmEqZSdu",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmQhLMuTbFyBTUm4Nkdzi4ofJhzV2EoApGHD6xCfWtHWko",
+        "https://coffee-important-lizard-419.mypinata.cloud/ipfs/QmUG1bUXUtzFGqn95udBb2JSBNPnCC4Guz34orN8yU6o9h"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3003,
+      "name": "Cryfi",
+      "nameKey": "Cryfi",
+      "status": "closed",
+      "distribution": "Airdrop",
+      "avatar": "https://i.imghippo.com/files/Q5kT21714025060.png",
+      "subName": "Shark Pass",
+      "idoTokenPrice": 300,
+      "vesting": "100% at TGE",
+      "description": "Cryfi is a marketplace where pro traders can monetize their knowledge right from Telegram, and newbies can earn & learn from blockchain-verified traders.",
+      "about": "Cryfi is a signal trading platform that leverages blockchain to verify traders and allow anyone to monetize their trading skills or choose real trading pros to follow. We’re building a one-stop trading community where traders can learn and grow together from some of the best in the business:",
+      "idoType": "Public Sale",
+      "chainName": "BSC",
+      "startTime": "11AM 05/03/2024 UTC",
+      "endTime": "11AM 05/05/2024 UTC",
+      "idoTokenSymbol": "Shark Pass",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Polygon",
+      "distributedLogo": "https://i.imghippo.com/files/zYh0x1714026060.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 30000,
+      "receiverAddress": "0x512134D506517aa2b159712E48c0561addd6A79D",
+      "id": "114",
+      "badge": "INO",
+      "cover": "https://www.trustfi.org/launchpad/covers/cryfi-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://cryfi.app/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/Cryfi_app_"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/cryfi_channel"
+        }
+      ],
+      "bannerImages": [
+        "https://i.imghippo.com/files/Lef4L1714025388.png",
+        "https://i.imghippo.com/files/Rj9fV1714025259.png",
+        "https://i.imghippo.com/files/XtsXI1714025313.png",
+        "https://i.imghippo.com/files/8Ao161714025287.png",
+        "https://i.imghippo.com/files/zPgHU1714025621.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3004,
+      "name": "GPT360",
+      "nameKey": "GPT360",
+      "status": "closed",
+      "distribution": "Airdrop",
+      "avatar": "https://i.postimg.cc/RFTWBzbp/GPT360-circle.png",
+      "subName": "G360",
+      "idoTokenPrice": 0.02,
+      "vesting": "8% TGE | 4 months Cliff | 11 months vesting | Linear with daily unlock",
+      "description": "Introducing GPT360, the revolutionary super app revolutionizing web3 marketing and networking. Our innovative features have proven their efficacy in driving user traction, revitalizing existing user communities, welcoming newcomers, and fostering community momentum.",
+      "about": "Introducing GPT360, the revolutionary super app revolutionizing web3 marketing and networking. Our innovative features have proven their efficacy in driving user traction, revitalizing existing user communities, welcoming newcomers, and fostering community momentum.",
+      "idoType": "Private Sale",
+      "chainName": "BSC",
+      "startTime": "11AM 05/15/2024 UTC",
+      "endTime": "11AM 05/17/2024 UTC",
+      "idoTokenSymbol": "G360",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 10000,
+      "receiverAddress": "0x3D130955A27542Cb46Fb7e0A3FA9D193eC1b63dD",
+      "id": "115",
+      "badge": "Private Sale",
+      "cover": "https://www.trustfi.org/launchpad/covers/gpt360-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.gpt360.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/GPT360_Official"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/GPT360_Announcement"
+        }
+      ],
+      "bannerImages": [
+        "https://i.postimg.cc/C1txYLsN/Screenshot-2024-05-13-at-16-41-12.png",
+        "https://i.postimg.cc/G3VQ2WLg/Screenshot-2024-05-13-at-16-41-30.png",
+        "https://i.postimg.cc/rpZ4H4zZ/Screenshot-2024-05-13-at-16-41-43.png",
+        "https://i.postimg.cc/wxmNW7zF/Screenshot-2024-05-13-at-16-42-07.png",
+        "https://i.postimg.cc/Bnq1QpKw/Screenshot-2024-05-13-at-16-42-18.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3005,
+      "name": "LitCraft",
+      "status": "closed",
+      "nameKey": "LitCraft",
+      "distribution": "Airdrop",
+      "avatar": "https://i.postimg.cc/CxJF99kB/Lit-Craft-logo.png",
+      "subName": "FIAS",
+      "idoTokenPrice": 0.08,
+      "vesting": "25% at TGE, then daily linear vesting for 2 months",
+      "description": "Voted the 2nd best blockchain by Cointelegraph, the LitCraft Metaverse is a Play To Own gaming ecosystem that allows user to own and control the value they create. Play a variety of game from casual puzzles to competitive NFT card battlers. Craft your own unique LitPet warrior to battle, or to work in your virtual business!",
+      "about": "Voted the 2nd best blockchain by Cointelegraph, the LitCraft Metaverse is a Play To Own gaming ecosystem that allows user to own and control the value they create. Play a variety of game from casual puzzles to competitive NFT card battlers. Craft your own unique LitPet warrior to battle, or to work in your virtual business!",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/04/2024 UTC",
+      "endTime": "11AM 06/06/2024 UTC",
+      "idoTokenSymbol": "FIAS",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "ETH",
+      "distributedLogo": "https://i.postimg.cc/HLJf3N2C/Ethereum-logo-2014-svg.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 50000,
+      "receiverAddress": "0x10c0282a54a049641Cf1Cc9De9581b4e4Ec9Bd0f",
+      "id": "116",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/litcraft-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "http://www.litcraft.com"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/LitCraft_DFE"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/FiasOfficialGroup"
+        }
+      ],
+      "bannerImages": [
+        "https://i.postimg.cc/kM8772Wd/Screenshot-2024-06-03-at-13-26-46.png",
+        "https://i.postimg.cc/7YnDTjBs/Screenshot-2024-06-03-at-13-27-01.png",
+        "https://i.postimg.cc/k5BdzG7z/Screenshot-2024-06-03-at-13-27-11.png",
+        "https://i.postimg.cc/G2Dn3f8j/Screenshot-2024-06-03-at-13-27-36.png",
+        "https://i.postimg.cc/j2QVPJhw/Screenshot-2024-06-03-at-13-27-44.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3008,
+      "name": "Promodex",
+      "nameKey": "Promodex",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://i.ibb.co/Rcq0Zz5/FYji8dz-P-400x400.png",
+      "subName": "PROMO",
+      "idoTokenPrice": 0.025,
+      "vesting": "10% TGE + 10% Monthly",
+      "description": "PROMODEX is a blockchain-based, the first 'Programmatic Promotion Marketplace' aiming to programmatize the social media campaign with influencers. Any brand, project, or company can launch a campaign on the Promodex platform by locking PROMO token or any other token on their wallet. Tokens are distributed among participants algorithmically according to their Influencer Quality Score (IQS) which is calculated by the number of followers and engagement level.",
+      "about": "PROMODEX is a blockchain-based, the first 'Programmatic Promotion Marketplace' aiming to programmatize the social media campaign with influencers. Any brand, project, or company can launch a campaign on the Promodex platform by locking PROMO token or any other token on their wallet. Tokens are distributed among participants algorithmically according to their Influencer Quality Score (IQS) which is calculated by the number of followers and engagement level.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/27/2024 UTC",
+      "endTime": "11AM 06/29/2024 UTC",
+      "idoTokenSymbol": "PROMO",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 50000,
+      "receiverAddress": "0xE989F86caef5A49f4A823D72588AC7726BBE7b21",
+      "id": "117",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/promodex-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://promodex.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/promodexio"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/promodexio_global"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/promodex/1.png",
+        "https://www.trustfi.org/launchpad/promodex/2.png",
+        "https://www.trustfi.org/launchpad/promodex/3.png",
+        "https://www.trustfi.org/launchpad/promodex/4.png",
+        "https://www.trustfi.org/launchpad/promodex/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3009,
+      "name": "Winee3",
+      "nameKey": "Winee3",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://i.ibb.co/Kzn7vkM/JIt-Bzm-d-400x400.jpg",
+      "subName": "WNE",
+      "idoTokenPrice": 0.002,
+      "vesting": "25% unlock at TGE then 5 months linear vesting",
+      "description": "Winee3 is a cutting-edge SocialFi super-app that transforms professional networking with Web3 tech. It offers AI matchmaking, NFT event tickets, and token rewards for global connections, vibrant communities, and career growth.",
+      "about": "Winee3 is a cutting-edge SocialFi super-app that transforms professional networking with Web3 tech. It offers AI matchmaking, NFT event tickets, and token rewards for global connections, vibrant communities, and career growth.It's an all-in-one platform where users can showcase skills, join events, and earn rewards, all powered by blockchain. With a user-centric approach and a goal to mainstream Web3, Winee3 is set to reshape professional networking.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/24/2024 UTC",
+      "endTime": "11AM 06/26/2024 UTC",
+      "idoTokenSymbol": "WNE",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "ETH",
+      "distributedLogo": "https://i.postimg.cc/HLJf3N2C/Ethereum-logo-2014-svg.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0xf199D8780A57BfEf2a4b2Ed4A2467dA4974a6ec9",
+      "id": "118",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/winee3-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://winee3.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/thewinee3app"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/promodexio_global"
+        }
+      ],
+      "bannerImages": [
+        "https://i.ibb.co/L0TPTtv/Screenshot-2024-06-22-at-23-25-29.png",
+        "https://i.ibb.co/MkfTpft/Screenshot-2024-06-22-at-23-25-40.png",
+        "https://i.ibb.co/5xKN4kL/Screenshot-2024-06-22-at-23-25-57.png",
+        "https://i.ibb.co/gdBSZrq/Screenshot-2024-06-22-at-23-26-07.png",
+        "https://i.ibb.co/ZKvNXCc/Screenshot-2024-06-22-at-23-26-20.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3010,
+      "name": "Ethora",
+      "nameKey": "Ethora",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://i.ibb.co/C754gCY/LSqkkw-400x400.jpg",
+      "subName": "ETR",
+      "idoTokenPrice": 0.01,
+      "vesting": "25% TGE, 25% each month after",
+      "description": " Ethora ($ETR) - The Ultimate Binary Options Platform for Degens. Powered by Base⚡️, Ethora caters to the most daring traders. It has transformed options trading by offering ultra-short expiry Binary Options, with expiries as short as 3 minutes",
+      "about": " Ethora ($ETR) - The Ultimate Binary Options Platform for Degens. Powered by Base⚡️, Ethora caters to the most daring traders. It has transformed options trading by offering ultra-short expiry Binary Options, with expiries as short as 3 minutes",
+      "idoType": "IDO",
+      "telegram": "",
+      "chainName": "BSC",
+      "startTime": "11AM 07/24/2024 UTC",
+      "endTime": "11AM 07/26/2024 UTC",
+      "idoTokenSymbol": "ETR",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BASE",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0xd089aBa92C79D226d09fe0eCEf22C07687f551Ea",
+      "id": "119",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/ethora-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.ethora.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Ethora_"
+        }
+      ],
+      "bannerImages": [
+        "https://i.ibb.co/P1TxxX2/Screenshot-2024-07-15-at-17-35-52.png",
+        "https://i.ibb.co/NLVmSdR/Screenshot-2024-07-15-at-17-47-09.png",
+        "https://i.ibb.co/pK38rTY/Screenshot-2024-07-15-at-17-50-35.png",
+        "https://i.ibb.co/xX5W0b1/Screenshot-2024-07-15-at-17-50-51.png",
+        "https://i.ibb.co/ngymQ2c/Screenshot-2024-07-15-at-17-51-29.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3011,
+      "name": "Revolon",
+      "nameKey": "Revolon",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://i.ibb.co/C2M6zFJ/m-FCNLOH4-400x400.jpg",
+      "subName": "RPM",
+      "idoTokenPrice": 0.1,
+      "vesting": "20% at TGE, 12 months linear vesting ",
+      "description": " Revolon is a Web3 Racing Game featuring competitive challenges against other players, climbing up the leaderboard, completing quests for victory, customizing vehicles, and trading in-game items in the marketplace.",
+      "about": " Revolon is a Web3 Racing Game featuring competitive challenges against other players, climbing up the leaderboard, completing quests for victory, customizing vehicles, and trading in-game items in the marketplace.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 07/20/2024 UTC",
+      "endTime": "11AM 07/23/2024 UTC",
+      "idoTokenSymbol": "RPM",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Arbitrum",
+      "distributedLogo": "https://i.ibb.co/PwYJ8bk/Zj-T-z-BAS-400x400.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 50000,
+      "receiverAddress": "0x749F8803afC6CA80c6B02D1Ed8B622cd1d4c86d0",
+      "id": "120",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/revolon-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.revolon.gg/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/revolon_gg"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/revolongg"
+        }
+      ],
+      "bannerImages": [
+        "https://i.ibb.co/nMGgCZP/Screenshot-2024-07-15-at-18-04-25.png",
+        "https://i.ibb.co/hWpdDnX/Screenshot-2024-07-15-at-18-04-42.png",
+        "https://i.ibb.co/FqLhXVV/Screenshot-2024-07-15-at-18-05-00.png",
+        "https://i.ibb.co/1rDT2M9/Screenshot-2024-07-15-at-18-05-28.png",
+        "https://i.ibb.co/pQS1p4H/Screenshot-2024-07-15-at-18-10-49.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3013,
+      "name": "Coin Pays",
+      "nameKey": "Coin Pays",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://pbs.twimg.com/profile_images/1791444364679376896/v-rF1wXq_400x400.jpg",
+      "subName": "CPY",
+      "idoTokenPrice": 0.1,
+      "vesting": "15% TGE, then 5 months linear vesting.",
+      "description": " CoinPays stands out as a premier platform enabling seamless acceptance of crypto payments across websites, online stores, and social media profiles. Operating as a non-custodial service, it refrains from storing or handling your funds directly. With a broad spectrum of support for over 30 cryptocurrencies, CoinPays ensures minimal transaction fees, amplifying its appeal to users.",
+      "about": " CoinPays stands out as a premier platform enabling seamless acceptance of crypto payments across websites, online stores, and social media profiles. Operating as a non-custodial service, it refrains from storing or handling your funds directly. With a broad spectrum of support for over 30 cryptocurrencies, CoinPays ensures minimal transaction fees, amplifying its appeal to users.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 08/19/2024 UTC",
+      "endTime": "11AM 08/21/2024 UTC",
+      "idoTokenSymbol": "CPY",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 50000,
+      "receiverAddress": "0x6eF81d9BD48ed5d09E69A8287eb83a30B05FC4eD",
+      "id": "121",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/coinpays-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://coinpays.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/CoinPaysApp"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/CoinPays_Global"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/coinpays/1.png",
+        "https://www.trustfi.org/launchpad/slider/coinpays/2.png",
+        "https://www.trustfi.org/launchpad/slider/coinpays/3.png",
+        "https://www.trustfi.org/launchpad/slider/coinpays/4.png",
+        "https://www.trustfi.org/launchpad/slider/coinpays/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3015,
+      "name": "NOMOEX Global",
+      "nameKey": "NOMOEX",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/nomoex-avatar.png",
+      "subName": "NOMOX",
+      "idoTokenPrice": 0.08,
+      "vesting": "20% at TGE, 2 months Cliff then 10 Months linear Vesting",
+      "description": " Nomoex ($NOMOX) – NOMOEX Global aims to lead the future of finance; Its vision is a future devoid of exorbitant service fees, fortified security measures, and unparalleled performance with scalable products. ",
+      "about": " Nomoex ($NOMOX) – NOMOEX Global aims to lead the future of finance; Its vision is a future devoid of exorbitant service fees, fortified security measures, and unparalleled performance with scalable products. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 08/22/2024 UTC",
+      "endTime": "11AM 08/24/2024 UTC",
+      "idoTokenSymbol": "NOMOX",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 100000,
+      "receiverAddress": "0x69a41C360BC4bFCD4e74A96dC657870D81Cc0e52",
+      "id": "122",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/nomoex-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.nomoex.com/en_US/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/nomoex_global"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/nomoexcommunity"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/nomoex/1.png",
+        "https://www.trustfi.org/launchpad/slider/nomoex/2.png",
+        "https://www.trustfi.org/launchpad/slider/nomoex/3.png",
+        "https://www.trustfi.org/launchpad/slider/nomoex/4.png",
+        "https://www.trustfi.org/launchpad/slider/nomoex/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3017,
+      "name": "Full House",
+      "nameKey": "Fullhouse",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/fullhouse-avatar.jpg",
+      "subName": "FH",
+      "idoTokenPrice": 0.75,
+      "vesting": "20% unlock at TGE then 6.6% monthly vesting",
+      "description": "FULLHOUSE is building the #1 social online gambling platform where users can earn daily yield based on the casino's performance. Backed by the best in the industry in both web3 and the casino industry.",
+      "about": " FULLHOUSE is building the #1 social online gambling platform where users can earn daily yield based on the casino's performance. Backed by the best in the industry in both web3 and the casino industry. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 12/18/2024 UTC",
+      "endTime": "11AM 12/18/2024 UTC",
+      "idoTokenSymbol": "FH",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 100000,
+      "receiverAddress": "0x982227f6a5cb5DeF9D0B66e85DC0032AfC508302",
+      "id": "123",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/fullhouse-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://fullhouse.gg/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/full_house_gg"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://discord.com/invite/fj2GKNutdk"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/fullhouse/1.png",
+        "https://www.trustfi.org/launchpad/slider/fullhouse/2.png",
+        "https://www.trustfi.org/launchpad/slider/fullhouse/3.png",
+        "https://www.trustfi.org/launchpad/slider/fullhouse/4.png",
+        "https://www.trustfi.org/launchpad/slider/fullhouse/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3018,
+      "name": "Okeytoo",
+      "nameKey": "okaytoo",
+      "status": "closed",
+      "distribution": "Claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/okeytoo-avatar.jpg",
+      "subName": "MPOD",
+      "idoTokenPrice": 0.01,
+      "vesting": "12% at TGE, no cliff, 5-month vesting",
+      "description": "Okeytoo is a groundbreaking project that seamlessly integrates the beloved classic game Okey into the web3 world. Our mission is to offer a modern, engaging gaming experience that honors the nostalgia of traditional games while embracing the security and transparency of blockchaintechnology. MPOD token will be the driving force across all MPOD-developed game projects, providing players with versatile utility andenhanced value within our expanding ecosystem.",
+      "about": " Okeytoo is a groundbreaking project that seamlessly integrates the beloved classic game Okey into the web3 world. Our mission is to offer a modern, engaging gaming experience that honors the nostalgia of traditional games while embracing the security and transparency of blockchain technology. MPOD token will be the driving force across all MPOD-developed game projects, providing players with versatile utility and enhanced value within our expanding ecosystem. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 09/16/2024 UTC",
+      "endTime": "11AM 09/18/2024 UTC",
+      "idoTokenSymbol": "MPOD",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x41763c87be6DBafa34007b29bE2B253174BC97e8",
+      "id": "124",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/okeytoo-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.okeytoo.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/okeytoogame"
+        },
+        {
+          "name": "Telegram",
+          "url": "x"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/okeytoo/1.png",
+        "https://www.trustfi.org/launchpad/slider/okeytoo/2.png",
+        "https://www.trustfi.org/launchpad/slider/okeytoo/3.png",
+        "https://www.trustfi.org/launchpad/slider/okeytoo/4.png",
+        "https://www.trustfi.org/launchpad/slider/okeytoo/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3019,
+      "name": "Staynex",
+      "nameKey": "staynex",
+      "status": "upcoming",
+      "distribution": "Claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/staynex-avatar.jpg",
+      "subName": "STAY",
+      "idoTokenPrice": 0.00035,
+      "vesting": "20% at TGE | Daily releases over 12 months",
+      "description": "Staynex is the innovative Web 3 Travel and Stay membership platform that combines a subscription-based service with a commission-free booking model. Total Raise: $5,000,000 , Listing: Top 5 Exchange on September, Token Unlocks: 20% TGE | Daily releasing over 12 months, Hardcap: 5.25M ",
+      "about": " Staynex is the innovative Web 3 Travel and Stay membership platform that combines a subscription-based service with a commission-free booking model. Total Raise: $5,000,000 , Listing: Top 5 Exchange on September, Token Unlocks: 20% TGE | Daily releasing over 12 months, Hardcap: 5.25M ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 11/20/2025 UTC",
+      "endTime": "11AM 11/22/2025 UTC",
+      "idoTokenSymbol": "STAY",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 100000,
+      "receiverAddress": "0x0f83413E17C9BC7BCEb0D9A455b962AcA54AEc6C",
+      "id": "125",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/stynex-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.staynex.vip/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/staynexcom"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://www.facebook.com/staynexcom/"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/staynex/1.png",
+        "https://www.trustfi.org/launchpad/slider/staynex/2.png",
+        "https://www.trustfi.org/launchpad/slider/staynex/3.png",
+        "https://www.trustfi.org/launchpad/slider/staynex/4.png",
+        "https://www.trustfi.org/launchpad/slider/staynex/5.png"
+      ],
+      "progress": {
+        "currentStep": 1,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": false
+          },
+          {
+            "name": "Launched",
+            "completed": false
+          },
+          {
+            "name": "Claiming",
+            "completed": false
+          },
+          {
+            "name": "Ended",
+            "completed": false
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3020,
+      "name": "Meta Virus",
+      "nameKey": "Metavirus",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/metavirus-avatar.jpg",
+      "subName": "MVT",
+      "idoTokenPrice": 0.05,
+      "vesting": "10% TGE, 1 month cliff, 4 months vesting",
+      "description": "MetaVirus is an innovative Web3 game that blends blockchain technology with immersive gameplay, offering a decentralized, freely traded mobile pet game. With over 17 years of experience in game development and 6 years in the blockchain field, our team brings a wealth of expertise to the table. MetaVirus features an auto-battle pet RPG style with cute Q-version characters, faction battles, union wars, and an infinite growth system. By integrating Free to Play (F2P) and Play to Earn (P2E) models, MetaVirus allows players to earn real value through engaging in-game activities and asset trading. ",
+      "about": " MetaVirus is an innovative Web3 game that blends blockchain technology with immersive gameplay, offering a decentralized, freely traded mobile pet game. With over 17 years of experience in game development and 6 years in the blockchain field, our team brings a wealth of expertise to the table. MetaVirus features an auto-battle pet RPG style with cute Q-version characters, faction battles, union wars, and an infinite growth system. By integrating Free to Play (F2P) and Play to Earn (P2E) models, MetaVirus allows players to earn real value through engaging in-game activities and asset trading. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 09/29/2024 UTC",
+      "endTime": "11AM 10/01/2024 UTC",
+      "refundButton": "https://bscscan.com/tx/0x6045109e500345ddef64bb9d3e7de019309d1437c69a9e2782c6552fce03570d",
+      "idoTokenSymbol": "MVT",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Polygon",
+      "distributedLogo": "https://i.imghippo.com/files/zYh0x1714026060.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 100000,
+      "receiverAddress": "0x1c621F46A4Fa04d2c55AEdC95C1e21Eb4f1C6Bd3",
+      "id": "126",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/metavirus-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.metavirus.games/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/MetaVirus_games"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/MetaVirus_Games"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/metavirus/1.png",
+        "https://www.trustfi.org/launchpad/slider/metavirus/2.png",
+        "https://www.trustfi.org/launchpad/slider/metavirus/3.png",
+        "https://www.trustfi.org/launchpad/slider/metavirus/4.png",
+        "https://www.trustfi.org/launchpad/slider/metavirus/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3021,
+      "name": "Boundless Pay",
+      "nameKey": "boundlesspay",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/boundless-avatar.jpg",
+      "subName": "BPAY",
+      "idoTokenPrice": 0.008,
+      "vesting": "20% at TGE, 1 months cliff, 6 months linear vesting",
+      "description": "BoundlessPay is revolutionizing finance by offering a seamless digital banking platform that connects traditional finance blockchain technology. We empower individuals and businesses globally with accessible and inclusive financial services. $BPay is the utility token that powers the  Boundlesspay ecosystem. ",
+      "about": " BoundlessPay is revolutionizing finance by offering a seamless digital banking platform that connects traditional finance blockchain technology. We empower individuals and businesses globally with accessible and inclusive financial services. $BPay is the utility token that powers the  Boundlesspay ecosystem.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 10/19/2024 UTC",
+      "endTime": "11AM 10/21/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "BPAY",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x7f8690cB169dA86AC43Ce3C05e91A2f19a37B494",
+      "id": "127",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/boundless-pay.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.boundlesspay.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/boundlesspay"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.co/X7bTpLrihd"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/boundlesspay/1.png",
+        "https://www.trustfi.org/launchpad/slider/boundlesspay/2.png",
+        "https://www.trustfi.org/launchpad/slider/boundlesspay/3.png",
+        "https://www.trustfi.org/launchpad/slider/boundlesspay/4.png",
+        "https://www.trustfi.org/launchpad/slider/boundlesspay/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3022,
+      "name": "Mey Network",
+      "nameKey": "meynetwork",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/mey-avatar.jpg",
+      "subName": "MEY",
+      "idoTokenPrice": 0.022,
+      "vesting": "Unlock 25% TGE, 1 month cliff, then 75% daily vesting for 02 months",
+      "description": "Mey Network is a global tokenized real estate investment platform aimed at revolutionizing real estate investment, management, and transactions. ",
+      "about": " Mey Network is a global tokenized real estate investment platform aimed at revolutionizing real estate investment, management, and transactions.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 11/05/2024 UTC",
+      "endTime": "11AM 11/07/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "MEY",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x38b436a7c59a1a9ffdcc1372fdd0f767fdf6fa45",
+      "id": "128",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/mey-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://mey.network/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Mey_Network"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/MeyNetwork"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/mey/1.png",
+        "https://www.trustfi.org/launchpad/slider/mey/2.png",
+        "https://www.trustfi.org/launchpad/slider/mey/3.png",
+        "https://www.trustfi.org/launchpad/slider/mey/4.png",
+        "https://www.trustfi.org/launchpad/slider/mey/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3023,
+      "name": "MetaFight",
+      "nameKey": "MetaFight",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/metafight-avatar.jpg",
+      "subName": "MFT",
+      "idoTokenPrice": 0.175,
+      "vesting": "21.00% at TGE, 2 months cliff,  then 12 months vesting",
+      "description": "MetaFight is a gaming platform made for MMA fans who want to take their love for the sport to the next level. It’s all about collecting and trading digital fighter cards that feature real MMA fighters from around the world. These cards aren’t just for show—you actually get to use them in a one-of-a-kind strategy game where you manage your fighters, train them, and create a gameplan to dominate your opponents. The gameplay is original, challenging, and totally immersive, giving you full control over your fighters’ careers. MetaFight isn’t just about the game—it’s also a place for fans to connect and bring closer MMA fighters to the fans. Through it platforms, MetaFight aims at upgrading fan experience in MMA ecosystem. ",
+      "about": " MetaFight is a gaming platform made for MMA fans who want to take their love for the sport to the next level. It’s all about collecting and trading digital fighter cards that feature real MMA fighters from around the world. These cards aren’t just for show—you actually get to use them in a one-of-a-kind strategy game where you manage your fighters, train them, and create a gameplan to dominate your opponents. The gameplay is original, challenging, and totally immersive, giving you full control over your fighters’ careers. MetaFight isn’t just about the game—it’s also a place for fans to connect and bring closer MMA fighters to the fans. Through it platforms, MetaFight aims at upgrading fan experience in MMA ecosystem.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 11/29/2024 UTC",
+      "endTime": "11AM 12/01/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "MFT",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0xdBbB415782f144eFb07562498A99b760b54f3DE6",
+      "id": "129",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/metafight-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://metafight.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/MetaFightOff"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/Metafight_Punch_Bot"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/metafight/1.png",
+        "https://www.trustfi.org/launchpad/slider/metafight/2.png",
+        "https://www.trustfi.org/launchpad/slider/metafight/3.png",
+        "https://www.trustfi.org/launchpad/slider/metafight/4.png",
+        "https://www.trustfi.org/launchpad/slider/metafight/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3024,
+      "name": "WarThreeKingdom",
+      "nameKey": "WarThreeKingdom",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/w3kt-avatar.jpg",
+      "subName": "W3KT",
+      "idoTokenPrice": 0.02,
+      "vesting": "100% at TGE",
+      "description": "War Three Kingdoms is a blockchain-based auto-battle RPG game, set during the chaotic Three Kingdoms period of ancient China. Built using HTML5 technology, the game provides a seamless, lightweight experience that requires no downloads. Players assume the role of historical generals like Guan Yu and Zhuge Liang, battling through idle gameplay, collecting generals, and engaging in strategic PVP and PVE content. All in-game assets, including generals and equipment, are minted as NFTs on the TON blockchain, giving players decentralized ownership and the ability to trade freely. The game’s economy is powered by a single token, $W3KT, used for in-game transactions, governance, and more. ",
+      "about": " War Three Kingdoms is a blockchain-based auto-battle RPG game, set during the chaotic Three Kingdoms period of ancient China. Built using HTML5 technology, the game provides a seamless, lightweight experience that requires no downloads. Players assume the role of historical generals like Guan Yu and Zhuge Liang, battling through idle gameplay, collecting generals, and engaging in strategic PVP and PVE content. All in-game assets, including generals and equipment, are minted as NFTs on the TON blockchain, giving players decentralized ownership and the ability to trade freely. The game’s economy is powered by a single token, $W3KT, used for in-game transactions, governance, and more.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 12/06/2024 UTC",
+      "endTime": "11AM 12/08/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "W3KT",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "TON",
+      "distributedLogo": "1",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0xB52824169412c62e0C5fc202e95b22f9a06F9A99",
+      "id": "130",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/w3kt-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.w3kt.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/war3kingdom"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://x.com/war3kingdom"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/w3kt/1.png",
+        "https://www.trustfi.org/launchpad/slider/w3kt/2.png",
+        "https://www.trustfi.org/launchpad/slider/w3kt/3.png",
+        "https://www.trustfi.org/launchpad/slider/w3kt/4.png",
+        "https://www.trustfi.org/launchpad/slider/w3kt/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3025,
+      "name": "YayPal",
+      "nameKey": "Yaypal",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/yaypal-avatar.jpg",
+      "subName": "ACTIVE",
+      "idoTokenPrice": 0.09,
+      "vesting": "20% at TGE, 4 month vesting",
+      "description": "Active Token: The Heart of the YayPal Gaming Ecosystem Active Token ($ACTIVE) is the token powering the YayPal ecosystem and the AIHubben AI gaming platform. It rewards players for their activity and offers unique utility within Non-Fungible Tokens (NFTs), providing tangible benefits.",
+      "about": " Active Token: The Heart of the YayPal Gaming Ecosystem Active Token ($ACTIVE) is the token powering the YayPal ecosystem and the AIHubben AI gaming platform. It rewards players for their activity and offers unique utility within Non-Fungible Tokens (NFTs), providing tangible benefits.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 12/08/2024 UTC",
+      "endTime": "11PM 12/10/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "ACTIVE",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Polygon",
+      "distributedLogo": "https://i.imghippo.com/files/zYh0x1714026060.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x34C32A41CFE6d2cd2111e442789b6762A9C4d300",
+      "id": "131",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/yaypal-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "www.yaypal.io"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/yaypalio?s=21"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/yaypalofficial"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/yaypal/1.png",
+        "https://www.trustfi.org/launchpad/slider/yaypal/2.png",
+        "https://www.trustfi.org/launchpad/slider/yaypal/3.png",
+        "https://www.trustfi.org/launchpad/slider/yaypal/4.png",
+        "https://www.trustfi.org/launchpad/slider/yaypal/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3026,
+      "name": "Vameon",
+      "nameKey": "Vameon",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/vameon-avatar.jpg",
+      "subName": "VON",
+      "idoTokenPrice": 0.000019,
+      "vesting": "16,67% Unlock every month starting at TGE",
+      "description": "Vameon is a blockchain gaming studio that brings you a cutting-edge 3D mobile Action-RPG dEmpire of Vampire game powered by BNB Chain, blending AAA gameplay with instant onboarding, all within a decentralized Play-to-Earn NFT Metaverse. Players are fully immersed in an ecosystem where they can mint free NFT-characters and build their value through in-game progress, as well as earn crypto rewards, and enjoy the captivating gameplay.",
+      "about": " Vameon is a blockchain gaming studio that brings you a cutting-edge 3D mobile Action-RPG dEmpire of Vampire game powered by BNB Chain, blending AAA gameplay with instant onboarding, all within a decentralized Play-to-Earn NFT Metaverse. Players are fully immersed in an ecosystem where they can mint free NFT-characters and build their value through in-game progress, as well as earn crypto rewards, and enjoy the captivating gameplay.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 12/22/2024 UTC",
+      "endTime": "11PM 12/23/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "VON",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x87B9e6Cd05d9fd067D45064d382c7c1e5DEF1D1c",
+      "id": "132",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/vameon-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://vameon.com"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/vameon69 "
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/vameon"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/vameon/1.png",
+        "https://www.trustfi.org/launchpad/slider/vameon/2.png",
+        "https://www.trustfi.org/launchpad/slider/vameon/3.png",
+        "https://www.trustfi.org/launchpad/slider/vameon/4.png",
+        "https://www.trustfi.org/launchpad/slider/vameon/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3027,
+      "name": "Trrue Chain",
+      "nameKey": "TrrueChain",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/trrue-avatar.jpg",
+      "subName": "TRRUE",
+      "idoTokenPrice": 0.1,
+      "vesting": "100% at TGE",
+      "description": "Trrue Chain enables the seamless tokenisation of real-world and digital assets, empowering businesses and individuals to engage in compliant, scalable, and transparent impact-driven projects. Through secure infrastructure and decentralised governance, Trrue Chain fosters innovation in finance, ensuring broader participation in a sustainable digital economy.",
+      "about": " Trrue Chain enables the seamless tokenisation of real-world and digital assets, empowering businesses and individuals to engage in compliant, scalable, and transparent impact-driven projects. Through secure infrastructure and decentralised governance, Trrue Chain fosters innovation in finance, ensuring broader participation in a sustainable digital economy.  ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 12/25/2024 UTC",
+      "endTime": "11AM 12/26/2024 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "TRRUE",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "ETH",
+      "distributedLogo": "https://www.trustfi.org/launchpad/eth.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x4672ddef7A41F15BE4572cA8B3e1fDD48ae500F1",
+      "id": "133",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/trrue-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.trrue.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/trrueio"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/trrue_community"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/trrue/1.png",
+        "https://www.trustfi.org/launchpad/slider/trrue/2.png",
+        "https://www.trustfi.org/launchpad/slider/trrue/3.png",
+        "https://www.trustfi.org/launchpad/slider/trrue/4.png",
+        "https://www.trustfi.org/launchpad/slider/trrue/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3028,
+      "name": "Hippo Swap",
+      "nameKey": "Hipposwap",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/hipposwap-avatar.jpg",
+      "subName": "HIPPO",
+      "idoTokenPrice": 0.00884,
+      "vesting": "25% at TGE, No cliff, 3 months vesting.",
+      "description": "Hippo Swap is a DEX Aggregator operating on Base and Scroll networks. With a strong emphasis on ecosystem growth and community-driven initiatives, that is set to launch attractive incentive programs.",
+      "about": " Hippo Swap is a DEX Aggregator operating on Base and Scroll networks. With a strong emphasis on ecosystem growth and community-driven initiatives, that is set to launch attractive incentive programs. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 01/23/2025 UTC",
+      "endTime": "11AM 01/25/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "HIPPO",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0xd3678bEb8B86aC86Be1Ed831Fb9D636ef59C4249",
+      "id": "134",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/hipposwap.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://hipposwap.finance/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/Hippo_Swap"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/hipposwap_scroll"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/hippo/1.png",
+        "https://www.trustfi.org/launchpad/slider/hippo/2.png",
+        "https://www.trustfi.org/launchpad/slider/hippo/3.png",
+        "https://www.trustfi.org/launchpad/slider/hippo/4.png",
+        "https://www.trustfi.org/launchpad/slider/hippo/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3029,
+      "name": "Life's Meta",
+      "nameKey": "LifesMeta",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/lifesmeta-avatar.jpg",
+      "subName": "LIFEM",
+      "idoTokenPrice": 0.01,
+      "vesting": "15% at TGE + 6 months vesting",
+      "description": "Life's Meta is an interactive narrative platform driven by AI Agents with rich personalities, where users and storytellers come together to experience immersive stories through real-time dialogues.",
+      "about": " Life's Meta is an interactive narrative platform driven by AI Agents with rich personalities, where users and storytellers come together to experience immersive stories through real-time dialogues. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 01/19/2025 UTC",
+      "endTime": "11AM 01/20/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "LIFEM",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x1b3bF163a59a5186F20ee0458c955d5545dd774F",
+      "id": "135",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/lifesmeta-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.lifesmeta.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/lifesmeta"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/lifesmeta"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/lifesmeta/1.png",
+        "https://www.trustfi.org/launchpad/slider/lifesmeta/2.png",
+        "https://www.trustfi.org/launchpad/slider/lifesmeta/3.png",
+        "https://www.trustfi.org/launchpad/slider/lifesmeta/4.png",
+        "https://www.trustfi.org/launchpad/slider/lifesmeta/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3030,
+      "name": "Wagmi Pad ",
+      "nameKey": "Wagmipad",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/wagmipad-avatar.jpg",
+      "subName": "WAGMI",
+      "idoTokenPrice": 0.088,
+      "vesting": "100% at TGE",
+      "description": "Wagmipad is a multichain token launchpad with a strong focus on Berachain, featuring a three-tiered curation mechanism with the exclusive input of a jury of up to 40+ Berachain OGs. This ensures 100% on-chain transparency in listing IDO projects, powered by Berachain's Proof of Liquidity to Reduce Risk and Boost Returns. Mainnet $WAGMI token holders who stake within the first two weeks after the Berachain mainnet launch will be eligible for up to 70% of the $BERA airdrop allocated by Berachain foundation, along with additional $WAGMI incentives..",
+      "about": " Wagmipad is a multichain token launchpad with a strong focus on Berachain, featuring a three-tiered curation mechanism with the exclusive input of a jury of up to 40+ Berachain OGs. This ensures 100% on-chain transparency in listing IDO projects, powered by Berachain's Proof of Liquidity to Reduce Risk and Boost Returns. Mainnet $WAGMI token holders who stake within the first two weeks after the Berachain mainnet launch will be eligible for up to 70% of the $BERA airdrop allocated by Berachain foundation, along with additional $WAGMI incentives.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 02/06/2025 UTC",
+      "endTime": "11AM 02/07/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "WAGMI",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Berachain",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bera.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x617Ae3Cd0C3FEa05DFB7dD12ED815cf751adc10a",
+      "id": "136",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/wagmipad-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://wagmipad.org/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Wagmipad"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/wagmipad"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/wagmi/1.png",
+        "https://www.trustfi.org/launchpad/slider/wagmi/2.png",
+        "https://www.trustfi.org/launchpad/slider/wagmi/3.png",
+        "https://www.trustfi.org/launchpad/slider/wagmi/4.png",
+        "https://www.trustfi.org/launchpad/slider/wagmi/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3031,
+      "name": "Etaku",
+      "nameKey": "EtakuAI",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/etaku-avatar.jpg",
+      "subName": "EKU",
+      "idoTokenPrice": 0.0063,
+      "vesting": "TGE 50%, 1m Cliff, 1m Linear Monthly vesting",
+      "description": "Etaku AI: Pioneering Entertainment Powered by AI Agents Etaku AI redefines how we connect with virtual characters by combining the anime art culture with the potential of AI Agents. With Etaku AI, your “dream AI Agent” comes to life—matched to your preferences and designed to grow alongside you.",
+      "about": " Etaku AI: Pioneering Entertainment Powered by AI Agents Etaku AI redefines how we connect with virtual characters by combining the anime art culture with the potential of AI Agents. With Etaku AI, your “dream AI Agent” comes to life—matched to your preferences and designed to grow alongside you. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 02/07/2025 UTC",
+      "endTime": "5PM 02/08/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "EKU",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 200000,
+      "receiverAddress": "0xb64B735762Ebf452b185C6D93FAdd9e7a3815A6e",
+      "id": "137",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/etaku-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://etaku.ai/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/EtakuAI"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/EtakuANN"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/etaku/1.png",
+        "https://www.trustfi.org/launchpad/slider/etaku/2.png",
+        "https://www.trustfi.org/launchpad/slider/etaku/3.png",
+        "https://www.trustfi.org/launchpad/slider/etaku/4.png",
+        "https://www.trustfi.org/launchpad/slider/etaku/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3032,
+      "name": "Vottun",
+      "nameKey": "Vottun",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/vottun-avatar.jpg",
+      "subName": "VTN",
+      "idoTokenPrice": 0.075,
+      "vesting": "25% at TGE, 0-month cliff, 5-month linear",
+      "description": " Vottun — The #1 Multi-Chain Developer Platform onboarding 1M+ developers into Web3! 💻💎 Powered by Draper, Nebula Ventures, Maccan Capital, and backed by Nestle, PwC, World Bank, Chupa Chups, and 150+ global brands!",
+      "about": "  Vottun — The #1 Multi-Chain Developer Platform onboarding 1M+ developers into Web3! 💻💎 Powered by Draper, Nebula Ventures, Maccan Capital, and backed by Nestle, PwC, World Bank, Chupa Chups, and 150+ global brands! ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 02/14/2025 UTC",
+      "endTime": "11AM 02/16/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "VTN",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x91A3F2987FD212e97322d312BF063b623f0b830e",
+      "id": "138",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/vottun-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://vottun.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/vottun?lang=fr"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/vottuncommunity"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/vottun/1.png",
+        "https://www.trustfi.org/launchpad/slider/vottun/2.png",
+        "https://www.trustfi.org/launchpad/slider/vottun/3.png",
+        "https://www.trustfi.org/launchpad/slider/vottun/4.png",
+        "https://www.trustfi.org/launchpad/slider/vottun/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3034,
+      "name": "FNT Crypto",
+      "nameKey": "FNTCrypto",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/fntcrypto-avatar.jpg",
+      "subName": "FNTIO",
+      "idoTokenPrice": 0.02,
+      "vesting": "25% TGE 0 Month Cliff 5 Months Linear Vesting",
+      "description": " FNT Crypto is at the forefront of financial innovation, taking inspiration from everyday financial activities. FNT Crypto introduces a novel concept, combining DeFi, CeFi, and Game-Fi elements in one platform.",
+      "about": " FNT Crypto is at the forefront of financial innovation, taking inspiration from everyday financial activities. FNT Crypto introduces a novel concept, combining DeFi, CeFi, and Game-Fi elements in one platform. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 04/26/2025 UTC",
+      "endTime": "11AM 04/27/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "FNTIO",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0xFB2cA5f6E7749D63e2B0D55228C725bb5557387B",
+      "id": "139",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/fntcrypto-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://fntcrypto.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/fntcrypto_io"
+        },
+        {
+          "name": "Telegram",
+          "url": "http://t.me/fntcrypto_io"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/fntcrypto/1.png",
+        "https://www.trustfi.org/launchpad/slider/fntcrypto/2.png",
+        "https://www.trustfi.org/launchpad/slider/fntcrypto/3.png",
+        "https://www.trustfi.org/launchpad/slider/fntcrypto/4.png",
+        "https://www.trustfi.org/launchpad/slider/fntcrypto/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3035,
+      "name": "Papu Games",
+      "nameKey": "Papugames",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/papu-avatar.jpg",
+      "subName": "PAPU",
+      "idoTokenPrice": 0.006,
+      "vesting": "100% at TGE",
+      "description": " Built on the Binance Smart Chain (BSC), Papu Arena is not just any action game—it’s the first of its kind to unite the entire crypto community with its exciting Play2Earn model. Here, your victories don’t just earn you bragging rights; they also earn you real-world rewards in the form of PapuCoins and other collaborated meme coins and tokens of BNB Chain!",
+      "about": " Built on the Binance Smart Chain (BSC), Papu Arena is not just any action game—it’s the first of its kind to unite the entire crypto community with its exciting Play2Earn model. Here, your victories don’t just earn you bragging rights; they also earn you real-world rewards in the form of PapuCoins and other collaborated meme coins and tokens of BNB Chain! ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "5PM 04/28/2025 UTC",
+      "endTime": "11AM 04/29/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "PAPU",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 70000,
+      "receiverAddress": "0x49dE734Bb72C6fCc566Fe306D883cA2E6f06B651",
+      "id": "140",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/papu-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://papu.game/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/PapuNextGen/"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/PapuNextGen"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/papu/1.png",
+        "https://www.trustfi.org/launchpad/slider/papu/2.png",
+        "https://www.trustfi.org/launchpad/slider/papu/3.png",
+        "https://www.trustfi.org/launchpad/slider/papu/4.png",
+        "https://www.trustfi.org/launchpad/slider/papu/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3036,
+      "name": "Mage Labs",
+      "nameKey": "magelabs",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/mage-avatar.jpg",
+      "subName": "WIZDOG",
+      "idoTokenPrice": 0.009,
+      "vesting": "15% at TGE, 4 month linear vesting",
+      "description": " Mage Labs is a game development studio founded in 2021 which has developed the new gold standard of web3 gaming by marrying advanced AI technology and next-gen play to earn featuring stable coin earnings. Their flagship game, Versus, implements AI agents alongside the best of Animal Crossing & Pokémon with strategic real-time PvE and PvP battles and is poised to onboard Web2 masses by releasing on Steam, Epic, iOS, and Android. Join them as they explore, gather, build, collect, level up, and battle. Mage Labs has raised over $2m in grants, private/venture capital, and launchpad funding and possesses strategic/investing partners including Mario Nawfal, Chainlink, and ImmutableX.",
+      "about": " Mage Labs is a game development studio founded in 2021 which has developed the new gold standard of web3 gaming by marrying advanced AI technology and next-gen play to earn featuring stable coin earnings. Their flagship game, Versus, implements AI agents alongside the best of Animal Crossing & Pokémon with strategic real-time PvE and PvP battles and is poised to onboard Web2 masses by releasing on Steam, Epic, iOS, and Android. Join them as they explore, gather, build, collect, level up, and battle. Mage Labs has raised over $2m in grants, private/venture capital, and launchpad funding and possesses strategic/investing partners including Mario Nawfal, Chainlink, and ImmutableX. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 05/07/2025 UTC",
+      "endTime": "11AM 05/08/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "WIZDOG",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 200000,
+      "receiverAddress": "0xc7091433cAa0bfFaE8f6910b4881Cb9a2afA211D",
+      "id": "141",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/mage-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://magelabs.net/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/Mage_Labs"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/Mage_Labs"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/mage/1.png",
+        "https://www.trustfi.org/launchpad/slider/mage/2.png",
+        "https://www.trustfi.org/launchpad/slider/mage/3.png",
+        "https://www.trustfi.org/launchpad/slider/mage/4.png",
+        "https://www.trustfi.org/launchpad/slider/mage/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3037,
+      "name": "Eternal Moon",
+      "nameKey": "Eternalmoon",
+      "status": "upcoming",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/eternal-avatar.jpg",
+      "subName": "ETM",
+      "idoTokenPrice": 0.0105,
+      "vesting": "TGE 40%, 3-month cliff followed by 24-months linear vesting",
+      "description": " EternalMoon (ETM) is a tribute project to Michael Jackson, producing albums, concerts, and large-scale art & cultural content globally. Holders can purchase each project's RWA coin with ETM and receive dividends from album & performance revenue.",
+      "about": " EternalMoon (ETM) is a tribute project to Michael Jackson, producing albums, concerts, and large-scale art & cultural content globally. Holders can purchase each project's RWA coin with ETM and receive dividends from album & performance revenue. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/26/2025 UTC",
+      "endTime": "11AM 06/27/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "ETM",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Solana",
+      "distributedLogo": "https://i.postimg.cc/kgwxdrQG/removal-ai-603feda1-a9db-4c83-80ea-07f1bd63ff8a-cryptocurrency-solana-logo-graphics-13460284-1-pre.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 200000,
+      "receiverAddress": "0x073c789BC327eC15eEf0108b75d973422f7d8dd0",
+      "id": "142",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/eternal-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://eternalmoon.io"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/eternalmoon0829"
+        },
+        {
+          "name": "Telegram",
+          "url": " https://t.me/eterna1m00n_chat"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/eternal/1.png",
+        "https://www.trustfi.org/launchpad/slider/eternal/2.png",
+        "https://www.trustfi.org/launchpad/slider/eternal/3.png",
+        "https://www.trustfi.org/launchpad/slider/eternal/4.png",
+        "https://www.trustfi.org/launchpad/slider/eternal/5.png"
+      ],
+      "progress": {
+        "currentStep": 1,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": false
+          },
+          {
+            "name": "Launched",
+            "completed": false
+          },
+          {
+            "name": "Claiming",
+            "completed": false
+          },
+          {
+            "name": "Ended",
+            "completed": false
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3038,
+      "name": "DelNorte",
+      "nameKey": "DelNorte",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/DelNorte-avatar.jpg",
+      "subName": "DTVC",
+      "idoTokenPrice": 0.05,
+      "vesting": "25% on TGE And 7.5% every 30 days for 10 months",
+      "description": " DelNorte Terra Vision is a RWA patent-pending system that securely streamlines interactions between governments and citizens. Delnorte provides a groundbreaking opportunity for owners of income-generating assets to unlock liquidity by tokenizing partial or full ownership of these assets through blockchain-based DAOs (Decentralized Autonomous Organizations). This tokenization process allows assets such as real estate deeds, trusts, or corporations (LLCs or SLLCs) to be represented digitally, facilitating the free trading of ownership interests.",
+      "about": " DelNorte Terra Vision is a RWA patent-pending system that securely streamlines interactions between governments and citizens. Delnorte provides a groundbreaking opportunity for owners of income-generating assets to unlock liquidity by tokenizing partial or full ownership of these assets through blockchain-based DAOs (Decentralized Autonomous Organizations). This tokenization process allows assets such as real estate deeds, trusts, or corporations (LLCs or SLLCs) to be represented digitally, facilitating the free trading of ownership interests. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 05/25/2025 UTC",
+      "endTime": "1PM 05/26/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "DTVC",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "ethereum",
+      "distributedLogo": "https://i.postimg.cc/HLJf3N2C/Ethereum-logo-2014-svg.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 200000,
+      "receiverAddress": "0x749AccD0cC8f01970e6e704FD95927696F090734",
+      "id": "143",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/DelNorte-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://delnorte.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/delnorte_io"
+        },
+        {
+          "name": "Telegram",
+          "url": " https://t.me/Delnorte_io"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/DelNorte/1.png",
+        "https://www.trustfi.org/launchpad/slider/DelNorte/2.png",
+        "https://www.trustfi.org/launchpad/slider/DelNorte/3.png",
+        "https://www.trustfi.org/launchpad/slider/DelNorte/4.png",
+        "https://www.trustfi.org/launchpad/slider/DelNorte/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3039,
+      "name": "Airas",
+      "nameKey": "Airas",
+      "status": "upcoming",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/Airas-avatar.jpg",
+      "subName": "AIRAS",
+      "idoTokenPrice": 0.0005,
+      "vesting": "TGE 25.00%, 0m Cliff, 5m Linear Monthly vesting",
+      "description": "AIRAS (Artificial Intelligence Real Assets System) is a comprehensive platform dedicated to leveraging AI and Blockchain for real world asset management, investment, and optimization. Our mission is to empower investors, developers, and businesses by providing cutting-edge AI-driven tools, frameworks, and best practices for real asset analysis and decision-making.",
+      "about": " AIRAS (Artificial Intelligence Real Assets System) is a comprehensive platform dedicated to leveraging AI and Blockchain for real world asset management, investment, and optimization. Our mission is to empower investors, developers, and businesses by providing cutting-edge AI-driven tools, frameworks, and best practices for real asset analysis and decision-making. ",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/07/2025 UTC",
+      "endTime": "11AM 06/07/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "AIRAS",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "ethereum",
+      "distributedLogo": "https://i.postimg.cc/HLJf3N2C/Ethereum-logo-2014-svg.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x9eebc245bf0c02E7eE047a2afec98DCfe2566e66",
+      "id": "144",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/Airas-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.airas.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/AirasNetwork"
+        },
+        {
+          "name": "Telegram",
+          "url": " https://t.me/AirasNetwork"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/Airas/1.png",
+        "https://www.trustfi.org/launchpad/slider/Airas/2.png",
+        "https://www.trustfi.org/launchpad/slider/Airas/3.png",
+        "https://www.trustfi.org/launchpad/slider/Airas/4.png",
+        "https://www.trustfi.org/launchpad/slider/Airas/5.png"
+      ],
+      "progress": {
+        "currentStep": 1,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": false
+          },
+          {
+            "name": "Launched",
+            "completed": false
+          },
+          {
+            "name": "Claiming",
+            "completed": false
+          },
+          {
+            "name": "Ended",
+            "completed": false
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3040,
+      "name": "BlockGuard",
+      "nameKey": "FUSIO",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/Block-avatar.jpg",
+      "subName": "FUSIO",
+      "idoTokenPrice": 0.007,
+      "vesting": "40% unlocked at TGE, 60% vested monthly over 2 months.",
+      "description": "Blockguard is An ecosystem bringing accessibility to financial management tools to the masses, a next Gen wallet with an entire platform for users to manage their assets, onchain/offchain aswell as direct access to advisory/consultants.",
+      "about": " Blockguard is An ecosystem bringing accessibility to financial management tools to the masses, a next Gen wallet with an entire platform for users to manage their assets, onchain/offchain aswell as direct access to advisory/consultants.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/08/2025 UTC",
+      "endTime": "11AM 06/09/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "FUSIO",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 150000,
+      "receiverAddress": "0x61f8c17913E31265Fd78DBa91F96dB4a680966bA",
+      "id": "145",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/Block-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.blockguard.org/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/Blockguard1"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/fusiobybg"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/Block/1.png",
+        "https://www.trustfi.org/launchpad/slider/Block/2.png",
+        "https://www.trustfi.org/launchpad/slider/Block/3.png",
+        "https://www.trustfi.org/launchpad/slider/Block/4.png",
+        "https://www.trustfi.org/launchpad/slider/Block/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3041,
+      "name": "Anazir Game",
+      "nameKey": "ANZ",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/Anazir-avatar.jpg",
+      "subName": "ANZ",
+      "idoTokenPrice": 0.009,
+      "vesting": "20% unlock at TGE, then monthly vesting in 5 months.",
+      "description": "Anazir is the first mobile Arena Tower Defense game set in a mystical world of elemental golems, combining real-time 1v1 battles with strategic deck-building and a sustainable Polygon-based Web3 economy featuring dynamic burn mechanics, in-game and community-driven rewards, and a long-term vision to become a top-tier Play-to-Earn project.",
+      "about": " Anazir is the first mobile Arena Tower Defense game set in a mystical world of elemental golems, combining real-time 1v1 battles with strategic deck-building and a sustainable Polygon-based Web3 economy featuring dynamic burn mechanics, in-game and community-driven rewards, and a long-term vision to become a top-tier Play-to-Earn project.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 06/28/2025 UTC",
+      "endTime": "11AM 06/29/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "BSC",
+      "distributedLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 100000,
+      "receiverAddress": "0xcab499Aa1Abb19b4bB35036ea0E0c74b9fd75186",
+      "id": "146",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/Anazir-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://www.anazirgame.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/Anazir_game"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/anazirgametd"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/Anazir/1.png",
+        "https://www.trustfi.org/launchpad/slider/Anazir/2.png",
+        "https://www.trustfi.org/launchpad/slider/Anazir/3.png",
+        "https://www.trustfi.org/launchpad/slider/Anazir/4.png",
+        "https://www.trustfi.org/launchpad/slider/Anazir/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3042,
+      "name": "Therapi",
+      "nameKey": "THRAI",
+      "status": "closed",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/Therapi-avatar.jpg",
+      "subName": "THRAI",
+      "idoTokenPrice": 0.018,
+      "vesting": "25% at TGE, 3 months linear vesting",
+      "description": "World's first AI therapist built by real psychologists and psychiatrists offering affordable and accessible mental health care to users anywhere, at any time, on any device.",
+      "about": " World's first AI therapist built by real psychologists and psychiatrists offering affordable and accessible mental health care to users anywhere, at any time, on any device.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 07/28/2025 UTC",
+      "endTime": "11AM 07/29/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Base",
+      "distributedLogo": "https://i.postimg.cc/05n2HnMB/108554348.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 140000,
+      "receiverAddress": "0x1789CB85bfD613cefDb442beA4d776ebcb433293",
+      "id": "147",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/Therapi-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://therapi.io/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/THERAPi_AI"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/therapiofficial"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/Therapi/1.png",
+        "https://www.trustfi.org/launchpad/slider/Therapi/2.png",
+        "https://www.trustfi.org/launchpad/slider/Therapi/3.png",
+        "https://www.trustfi.org/launchpad/slider/Therapi/4.png",
+        "https://www.trustfi.org/launchpad/slider/Therapi/5.png"
+      ],
+      "progress": {
+        "currentStep": 5,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": true
+          },
+          {
+            "name": "Claiming",
+            "completed": true
+          },
+          {
+            "name": "Ended",
+            "completed": true
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    },
+    {
+      "poolId": 3043,
+      "name": "Punkvism",
+      "nameKey": "PVT",
+      "status": "live",
+      "distribution": "claim",
+      "avatar": "https://www.trustfi.org/launchpad/avatar/PVT-avatar.jpg",
+      "subName": "PVT",
+      "idoTokenPrice": 0.002625,
+      "vesting": "40% at TGE, 3-month cliff, 24-month linear vesting",
+      "description": "PUNKVISM is a blockchain platform connecting industries like real estate, entertainment, gaming, and healthcare through a 15,000+ member NFT community on a unified network.",
+      "about": " PUNKVISM is a blockchain platform connecting industries like real estate, entertainment, gaming, and healthcare through a 15,000+ member NFT community on a unified network.",
+      "idoType": "IDO",
+      "chainName": "BSC",
+      "startTime": "11AM 08/03/2025 UTC",
+      "endTime": "11AM 08/04/2025 UTC",
+      "refundButton": "",
+      "idoTokenSymbol": "",
+      "idoOnChainName": "BSC",
+      "idoOnChainLogo": "https://www.trustfi.org/launchpad/bnb.png",
+      "distributedName": "Solana",
+      "distributedLogo": "https://i.postimg.cc/kgwxdrQG/removal-ai-603feda1-a9db-4c83-80ea-07f1bd63ff8a-cryptocurrency-solana-logo-graphics-13460284-1-pre.png",
+      "supportCommToken": "0x55d398326f99059ff775485246999027b3197955",
+      "supportCommTokenDecimals": 18,
+      "hardCap": 250000,
+      "receiverAddress": "0x6710E49f243E4f5007a97d61141F9c92d34B13Ff",
+      "id": "148",
+      "badge": "IDO",
+      "cover": "https://www.trustfi.org/launchpad/covers/PVT-cover.png",
+      "socialLinks": [
+        {
+          "name": "Website",
+          "url": "https://punkvism.com/"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://x.com/PUNKVISM"
+        },
+        {
+          "name": "Telegram",
+          "url": "https://t.me/PUNKVISM"
+        }
+      ],
+      "bannerImages": [
+        "https://www.trustfi.org/launchpad/slider/PVT/1.png",
+        "https://www.trustfi.org/launchpad/slider/PVT/2.png",
+        "https://www.trustfi.org/launchpad/slider/PVT/3.png",
+        "https://www.trustfi.org/launchpad/slider/PVT/4.png",
+        "https://www.trustfi.org/launchpad/slider/PVT/5.png"
+      ],
+      "progress": {
+        "currentStep": 2,
+        "totalSteps": 5,
+        "steps": [
+          {
+            "name": "Whitelist",
+            "completed": true
+          },
+          {
+            "name": "Preparing",
+            "completed": true
+          },
+          {
+            "name": "Launched",
+            "completed": false
+          },
+          {
+            "name": "Claiming",
+            "completed": false
+          },
+          {
+            "name": "Ended",
+            "completed": false
+          }
+        ]
+      },
+      "saleGuard": "TOR"
+    }
+  ]
+}

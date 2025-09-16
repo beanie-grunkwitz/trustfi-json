@@ -3,11 +3,11 @@
     {
       "poolId": 20250813,
       "IdoFactory": "0xE1F2297616f443853664425DCb4B149f3AB8e88A",
-      "status": "live",
+      "status": "closed",
       "name": "ddev",
       "nameKey": "SugarKingdomPrivateSaleTest",
       "chainId": 56,
-      "distribution": "Airdrop",
+      "distribution": "Claim",
       "avatar": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
       "subName": "$CANDY",
       "claimStarts": 0,
